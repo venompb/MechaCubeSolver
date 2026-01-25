@@ -53,7 +53,13 @@ MechaCubeSolver est avant tout un projet de passion, mêlant mécanique, électr
 
 ## 📁 Arborescence
 
-MechaCubeSolver/ ├── README.md ├── LICENSE ├── mechanics/ ├── electronics/ ├── software/ └── docs/
+MechaCubeSolver/
+├── README.md
+├── LICENSE
+├── mechanics/
+├── electronics/
+├── software/
+└── docs/
 
 ---
 
