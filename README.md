@@ -35,7 +35,7 @@ MechaCubeSolver est avant tout un projet de passion, mêlant mécanique, électr
 - Raspberry Pi
 - Drivers moteurs externes (TB6560)
 - Carte d’isolation par **optocoupleurs**
-- Connexions moteurs par borniers à vis
+- Moteurs pour permettre les rotations **NEMA17**
 
 ---
 
