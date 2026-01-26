@@ -17,6 +17,9 @@ MechaCubeSolver est avant tout un projet de passion, mêlant mécanique, électr
 Esquisse de principe représentant l’architecture générale du projet :
 cube en position diamant, 6 axes motorisés, socle intégrant l’électronique et la ventilation.
 
+Cette illustration a été générée à l’aide de ChatGPT.
+Elle n’est pas mécaniquement exacte, mais permet de visualiser l’idée globale et l’intention du projet qui risque de varier au fur et a mesure de sa conception.
+
 ---
 
 ## 🎯 Objectifs du projet
