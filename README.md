@@ -1,4 +1,4 @@
-# MechaCubeSolver 🤖🧩
+# MechaCubeSolver
 
 **MechaCubeSolver** est un robot mécanique de résolution automatique de Rubik’s Cube.
 
