@@ -10,7 +10,7 @@ MechaCubeSolver est avant tout un projet de passion, mêlant mécanique, électr
 
 ---
 
-## 🧠 Concept visuel
+## 📐 Visuel du projet
 
 ![MechaCubeSolver – concept](mechaCubeSolver_concept_sketch.png)
 
