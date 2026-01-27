@@ -18,7 +18,8 @@ Esquisse de principe représentant l’architecture générale du projet :
 cube en position diamant, 6 axes motorisés, socle intégrant l’électronique et la ventilation.
 
 Cette illustration a été générée à l’aide de ChatGPT.
-Elle n’est pas mécaniquement exacte, mais permet de visualiser l’idée globale et l’intention du projet qui risque de varier au fur et a mesure de sa conception.
+Elle n’est pas mécaniquement exacte, mais permet de visualiser l’idée globale
+et l’intention du projet, susceptibles d’évoluer au fil de la conception.
 
 ---
 
@@ -37,12 +38,12 @@ Elle n’est pas mécaniquement exacte, mais permet de visualiser l’idée glob
 Le projet MechaCubeSolver repose sur l’assemblage de plusieurs éléments clés :
 
 - Rubik’s Cube standard (3x3x3)
-- 6 moteurs pas à pas (Nema 17 un par face)
+- 6 moteurs pas à pas (NEMA 17 un par face)
 - Drivers moteurs externes (TB6560)
 - Raspberry Pi (pilotage et logique)
 - Carte d’isolation à optocoupleurs (HCPL-4504)
 - Structure mécanique imprimée en 3D
-- Socle en MDF a double fond (loge l'électronique)
+- Socle en MDF à double fond (logement de l'électronique)
 - Ventilation active intégrée
 - Interface utilisateur (PureBasic)
 
@@ -50,6 +51,8 @@ Cette liste présente les composants dans leurs grandes lignes.
 Les choix techniques précis évolueront au fil du projet.
 
 ---
+
+Les sections suivantes détaillent plus précisément chaque partie du projet.
 
 ## 🧱 Mécanique
 
