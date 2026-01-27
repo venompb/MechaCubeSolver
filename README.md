@@ -32,6 +32,25 @@ Elle n’est pas mécaniquement exacte, mais permet de visualiser l’idée glob
 
 ---
 
+## 🧩 Composants principaux
+
+Le projet MechaCubeSolver repose sur l’assemblage de plusieurs éléments clés :
+
+- Rubik’s Cube standard (3x3x3)
+- 6 moteurs pas à pas (Nema 17 un par face)
+- Drivers moteurs externes (TB6560)
+- Raspberry Pi (pilotage et logique)
+- Carte d’isolation à optocoupleurs (HCPL-4504)
+- Structure mécanique imprimée en 3D
+- Socle en MDF a double fond (loge l'électronique)
+- Ventilation active intégrée
+- Interface utilisateur (PureBasic)
+
+Cette liste présente les composants dans leurs grandes lignes.
+Les choix techniques précis évolueront au fil du projet.
+
+---
+
 ## 🧱 Mécanique
 
 - Cube tenu par ses **6 centres**
