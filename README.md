@@ -95,6 +95,7 @@ MechaCubeSolver/
 ├── electronics/
 ├── software/
 └── docs/
+```
 
 ---
 
