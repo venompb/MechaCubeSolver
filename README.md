@@ -87,6 +87,7 @@ Les sections suivantes détaillent plus précisément chaque partie du projet.
 
 ## 📁 Arborescence
 
+```text
 MechaCubeSolver/
 ├── README.md
 ├── LICENSE
