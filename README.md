@@ -91,6 +91,7 @@ Les sections suivantes détaillent plus précisément chaque partie du projet.
 MechaCubeSolver/
 ├── README.md
 ├── LICENSE
+├── Roadmap.md
 ├── mechanics/
 ├── electronics/
 ├── software/
