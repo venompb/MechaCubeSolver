@@ -40,8 +40,8 @@ Le projet MechaCubeSolver repose sur l’assemblage de plusieurs éléments clé
 - Rubik’s Cube standard (3x3x3)
 - 6 moteurs pas à pas (NEMA 17 un par face)
 - Drivers moteurs externes (TB6560)
-- Raspberry Pi (pilotage et logique)
-- Carte d’isolation à optocoupleurs (HCPL-4504)
+- Raspberry Pi 4b (logique)
+- Raspberry pico (pilotage)
 - Structure mécanique imprimée en 3D
 - Socle en MDF à double fond (logement de l'électronique)
 - Ventilation active intégrée
