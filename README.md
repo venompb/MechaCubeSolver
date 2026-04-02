@@ -12,7 +12,7 @@ MechaCubeSolver est avant tout un projet de passion, mêlant mécanique, électr
 
 ## 📐 Visuel du projet
 
-![MechaCubeSolver – concept](docs\images\mechaCubeSolver_concept_sketch.png)
+![MechaCubeSolver – concept](docs/images/mechaCubeSolver_concept_sketch.png)
 
 Esquisse de principe représentant l’architecture générale du projet :
 cube en position diamant, 6 axes motorisés, socle intégrant l’électronique et la ventilation.
